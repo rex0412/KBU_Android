@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="app_sample_text">이 App은 Sample 입니다</string>
+    <string name="name_hint">이름을 입력 하세요</string>
+    <string name="welcome_button_text">이름을 입력 하세요</string>
+    <string name="clear_button_text">CLEAR</string>
+    <string name="default_program_text">Program</string>
+    <string name="name_required_message">이름을 입력 해야 합니다</string>
+    <string name="welcome_message">환영 합니다. %1$s님!!</string>
+    <string name="long_press_message">길게 눌렀 습니다</string>
+</resources>
