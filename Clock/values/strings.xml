@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="Time">현재 시간</string>
+</resources>
