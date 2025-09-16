@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">이미지 변경 게임</string>
+    <string name="score">Score : 0</string>
+    <string name="timer">Timer : 30</string>
+    <string name="start">Game Start</string>
+
+    <string name="score_format">Score : %d</string>
+    <string name="timer_format">Timer : %d</string>
+    <string name="game_over">Game Over</string>
+</resources>
