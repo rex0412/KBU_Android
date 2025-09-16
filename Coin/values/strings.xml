@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coin</string>
+    <string name="throwCoin">동전 던지기</string>
+    <string name="coin_image_description">동전 앞면 또는 뒷면 이미지</string>
+</resources>
