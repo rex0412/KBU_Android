@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="dice_image_description">주사위 이미지</string>
+</resources>
