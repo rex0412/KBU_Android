@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Report2</string>
+    <string name="check">확인(Check)</string>
+    <string name="cancel">취소(Cancel)</string>
+    <string name="id">ID를 입력해주세요</string>
+    <string name="pw">비밀번호</string>
+    <string name="login_image_description">로그인 화면 로고 이미지</string>
+</resources>
