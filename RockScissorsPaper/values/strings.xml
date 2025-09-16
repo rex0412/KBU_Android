@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RockScissorsPaper</string>
+    <string name="title">가위, 바위, 보 게임</string>
+
+    <string name="you">You : %d</string>
+    <string name="phone">Phone : %d</string>
+    <string name="game">Game : %d</string>
+
+    <string name="scissors">가위</string>
+    <string name="rock">바위</string>
+    <string name="paper">보</string>
+    <string name="result1">당신이 이겼습니다</string>
+    <string name="result2">비겼습니다</string>
+    <string name="result3">당신이 졌습니다</string>
+
+    <string name="desc_your_choice">당신이 낸 이미지</string>
+    <string name="desc_phone_choice">컴퓨터가 낸 이미지</string>
+</resources>
