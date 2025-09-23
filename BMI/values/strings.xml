@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI 계산기</string>
+    <string name="enter">키와 몸무게를 입력하세요</string>
+    <string name="height">키(Cm)</string>
+    <string name="weight">체중(Kg)</string>
+    <string name="heightHint">키를 입력하세요 (cm)</string>
+    <string name="weightHint">몸무게를 입력하세요 (kg)</string>
+    <string name="result">BMI 계산 결과</string>
+</resources>
