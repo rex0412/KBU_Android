@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Sixty</string>
-    <string name="year">년도 : </string>
-    <string name="text">서기년도를 입력</string>
-    <string name="calc">계산하기</string>
-    <string name="yearCycle">60갑자</string>
-</resources>
