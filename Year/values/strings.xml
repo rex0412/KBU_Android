@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Report01</string>
+    <string name="yearInput">년도 입력 : </string>
+    <string name="monthInput">월 입력 : </string>
+    <string name="dayInput">일 입력 : </string>
+    <string name="yearHint">년도를 입력하세요</string>
+    <string name="monthHint">월을 입력하세요</string>
+    <string name="dayHint">일를 입력하세요</string>
+    <string name="today">TODAY</string>
+</resources>
