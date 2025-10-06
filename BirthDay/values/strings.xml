@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Report02(홀수)</string>
+    <string name="birthAgeCalc">출생 연도 → 나이 계산하기</string>
+    <string name="ageBirthCalc">나이 → 출생 연도 구하기</string>
+    <string name="calc">계산하기</string>
+    <string name="birth">태어난 연도를 입력하세요.</string>
+    <string name="age">나이를 입력하세요.</string>
+    <string name="ageCalc">나이 계산하기</string>
+    <string name="birthCalc">출생 연도 계산하기</string>
+</resources>
