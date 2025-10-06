@@ -1,10 +1,9 @@
 <resources>
-    <string name="app_name">Report01</string>
-    <string name="yearInput">년도 입력 : </string>
-    <string name="monthInput">월 입력 : </string>
-    <string name="dayInput">일 입력 : </string>
-    <string name="yearHint">년도를 입력하세요</string>
-    <string name="monthHint">월을 입력하세요</string>
-    <string name="dayHint">일를 입력하세요</string>
-    <string name="today">TODAY</string>
+    <string name="app_name">Report03(짝수)</string>
+    <string name="calc">연도 계산기</string>
+    <string name="year">연도</string>
+    <string name="yearEnter">연도 입력</string>
+    <string name="chooseYear">연도 평가 방법 선택</string>
+    <string name="animal">띠 동물 알아보기</string>
+    <string name="leapYear">윤년 계산</string>
 </resources>
