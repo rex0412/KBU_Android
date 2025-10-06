@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Report01(홀수)</string>
+    <string name="select">선택을 시작하겠습니까?</string>
+    <string name="switch_off_text">시작</string>
+    <string name="switch_on_text">종료</string>
+    <string name="favoriteVersion">좋아하는 안드로이드 버전은?</string>
+    <string name="jellybean">젤리빈(4.3)</string>
+    <string name="kitkat">킷켓(4.4)</string>
+    <string name="rollipop">롤리팝(5.0)</string>
+    <string name="androidVersion">androidVersion</string>
+</resources>
