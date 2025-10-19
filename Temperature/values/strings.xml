@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Report 02</string>
+
+    <string name="celsius_label_format">섭씨 온도(%.1f℃)</string>
+    <string name="fahrenheit_label_format">화씨 온도(%.1f℉)</string>
+
+    <string name="c_to_f_radio">섭씨를 화씨로</string>
+    <string name="f_to_c_radio">화씨를 섭씨로</string>
+
+    <string name="convert_button">변환</string>
+    <string name="reset_button">초기화</string>
+
+    <string name="toast_select_option">선택해주세요</string>
+
+    <string name="result_format">섭씨 온도 : %.2f ℃, 화씨 온도 : %.2f ℉</string>
+</resources>
