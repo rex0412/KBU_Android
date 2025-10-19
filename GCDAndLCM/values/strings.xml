@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LCM</string>
+
+    <string name="calculate_button_text">최소공배수 구하기</string>
+    <string name="initial_result_text">결과</string>
+    <string name="initial_label_text">자연수 입력(1)</string>
+
+    <string name="label_format">자연수 입력(%d)</string>
+    <string name="gcd_result_format">%1$d, %2$d의 GCD(최대공약수)는 %3$d 입니다.</string>
+    <string name="lcm_result_format">%1$d, %2$d의 LCM(최소공배수)는 %3$d 입니다.</string>
+
+    <string name="input_prompt_toast">입력 바람</string>
+
+    <string name="full_result_format">%1$s\n%2$s</string>
+</resources>
