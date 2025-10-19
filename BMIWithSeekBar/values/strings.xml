@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="weight_label">몸무게(Kg)</string>
+    <string name="height_label">키(Cm)</string>
+
+    <string name="weight_value_format">%.1f Kg</string>
+    <string name="height_value_format">%.1f Cm</string>
+    <string name="bmi_result_format">BMI : %.2f</string>
+    <string name="initial_bmi_text">BMI : </string>
+
+    <string name="status_underweight">당신은 저체중 입니다!</string>
+    <string name="status_normal">당신은 정상 체중 입니다!</string>
+    <string name="status_overweight">당신은 과체중 입니다!</string>
+    <string name="status_obese">당신은 비만 입니다!</string>
+</resources>
