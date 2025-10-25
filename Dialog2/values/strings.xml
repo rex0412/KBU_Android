@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Report3</string>
+    <string name="title">Dialog Report</string>
+    <string name="dialog1">Progress Dialog(Spinner)</string>
+    <string name="dialog2">Progress Dialog(Horizontal Bar)</string>
+    <string name="dialog3">Custom Dialog</string>
+    <string name="id">ID</string>
+    <string name="pwd">PWD</string>
+    <string name="login">LOGIN</string>
+</resources>
