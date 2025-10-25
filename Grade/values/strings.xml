@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Report02</string>
+    <string name="yourGrade">몇 학년 입니까?</string>
+    <string name="enterGrade">학년 입력 바람</string>
+</resources>
