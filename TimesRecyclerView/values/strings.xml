@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Report01</string>
+    <string name="title_text">어느 나라에 대하여 알아볼까요?</string>
+
+    <string-array name="countries">
+        <item>신라</item>
+        <item>고구려</item>
+        <item>백제</item>
+        <item>발해</item>
+        <item>옥저</item>
+        <item>동예</item>
+        <item>부여</item>
+        <item>대한민국</item>
+    </string-array>
+</resources>
