@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Report01</string>
+    <string name="enterData">데이터 입력</string>
+    <string name="favoriteFruit">아래 목록에서 좋아하는 과일을 선택하세요!</string>
+    <string name="results">결과 보기</string>
+
+    <string-array name="fruits">
+        <item>사과</item>
+        <item>배</item>
+        <item>귤</item>
+        <item>바나나</item>
+        <item>복숭아</item>
+        <item>수박</item>
+    </string-array>
+
+    <string name="dialog_title">선택한 과일 목록</string>
+    <string name="delete">삭제</string>
+    <string name="check">확인</string>
+
+    <string name="add_label">과일 입력</string>
+    <string name="fruitName">과일 이름 :</string>
+    <string name="hint">과일 이름을 입력해주세요</string>
+</resources>
