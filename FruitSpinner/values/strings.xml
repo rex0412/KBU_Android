@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Report03</string>
+    <string name="select_fruit">먹고 싶은 과일을 선택하세요?</string>
+
+    <string-array name="fruits">
+        <item>과일을 고르세요</item>
+        <item>사과</item>
+        <item>딸기</item>
+        <item>수박</item>
+        <item>바나나</item>
+        <item>감</item>
+        <item>복숭아</item>
+        <item>자두</item>
+    </string-array>
+</resources>
