@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple1">#581FBD</color>
+    <color name="purple2">#673AB7</color>
+    <color name="default_button_bg">#0000FF</color>
+    <color name="default_button_text">#FFFFFFFF</color>
+    <color name="bg_main_placeholder">#C8E6C9</color>
+    <color name="seekbar_red">#FF0000</color>
+    <color name="seekbar_green">#00FF00</color>
+    <color name="seekbar_blue">#0000FF</color>
+    <color name="member_1">#E57373</color>
+    <color name="member_2">#F06292</color>
+    <color name="member_3">#BA68C8</color>
+    <color name="member_4">#9575CD</color>
+    <color name="member_5">#7986CB</color>
+    <color name="member_6">#64B5F6</color>
+    <color name="member_7">#4FC3F7</color>
+    <color name="member_8">#4DD0E1</color>
+    <color name="member_9">#4DB6AC</color>
+    <color name="member_10">#81C784</color>
+    <color name="member_11">#AED581</color>
+    <color name="light_blue">#E1F5FE</color>
+    <color name="text_green">#1B5E20</color>
+    <color name="text_red">#D50000</color>
+    <color name="text_blue">#0D47A1</color>
+</resources>

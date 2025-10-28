@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="member_names">
+        <item>김정</item>
+        <item>구승모</item>
+        <item>오동우</item>
+        <item>한민국</item>
+        <item>유재은</item>
+        <item>윤지수</item>
+        <item>유혜연</item>
+        <item>박재성</item>
+        <item>서경진</item>
+        <item>손영수</item>
+        <item>이미영</item>
+    </string-array>
+    <string-array name="member_birth_years">
+        <item>1969</item>
+        <item>1973</item>
+        <item>1983</item>
+        <item>1965</item>
+        <item>1992</item>
+        <item>1984</item>
+        <item>1994</item>
+        <item>1992</item>
+        <item>1965</item>
+        <item>1970</item>
+        <item>1980</item>
+    </string-array>
+    <string-array name="job">
+        <item>의사</item>
+        <item>교사</item>
+        <item>회사원</item>
+        <item>자영업</item>
+        <item>디자이너</item>
+        <item>기자</item>
+        <item>모델</item>
+        <item>스포츠 캐스터</item>
+        <item>교수</item>
+        <item>농부</item>
+        <item>주부</item>
+    </string-array>
+    <array name="member_photos">
+        <item>@drawable/lee1</item>
+        <item>@drawable/lee2</item>
+        <item>@drawable/name2</item>
+        <item>@drawable/name5</item>
+        <item>@drawable/name6</item>
+        <item>@drawable/lee1</item>
+        <item>@drawable/lee2</item>
+        <item>@drawable/name2</item>
+        <item>@drawable/name5</item>
+        <item>@drawable/name6</item>
+        <item>@drawable/lee1</item>
+    </array>
+</resources>

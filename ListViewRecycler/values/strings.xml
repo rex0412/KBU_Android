@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">중간 수행평가</string>
+    <string name="setting_text_color">버튼 글자색</string>
+    <string name="setting_bg_color">버튼 배경색</string>
+    <string name="setting_bg_image">배경 이미지</string>
+    <string name="btn_simple_listview">SIMPLE LISTVIEW</string>
+    <string name="btn_simple_recyclerview">SIMPLE RECYCLERVIEW</string>
+    <string name="btn_custom_recyclerview">CUSTOM RECYCLERVIEW</string>
+    <string name="dialog_title_text_color">버튼 글자색을 선택해 주세요!</string>
+    <string name="dialog_title_bg_color">버튼 배경색을 선택해 주세요!</string>
+    <string name="dialog_red">Red : %1$d (%2$s)</string>
+    <string name="dialog_green">Green : %1$d (%2$s)</string>
+    <string name="dialog_blue">Blue : %1$d (%2$s)</string>
+    <string name="red">Red: 255(FF)</string>
+    <string name="blue">Blue: 255(FF)</string>
+    <string name="green">Green: 255(FF)</string>
+    <string name="dialog_preview_button">변경 색상</string>
+    <string name="dialog_cancel">취소</string>
+    <string name="dialog_confirm">확인</string>
+    <string name="title_activity_simple_list">ListView 예제</string>
+    <string name="title_activity_simple_recycler">RecyclerView 예제</string>
+    <string name="title_activity_custom_recycler">Custom RecyclerView</string>
+    <string name="title_activity_simple_detail">Simple List2</string>
+    <string name="SimpleList2">4 번째\n한민국 (61 세)\n자영업</string>
+    <string name="han">한민국 (61세)</string>
+    <string name="job">자영업</string>
+    <string name="gim">김정</string>
+    <string name="age">(57세)</string>
+    <string name="job2">회사원</string>
+    <string name="ageJob">(57세) 회사원</string>
+    <string name="member_list_title">회원 명단</string>
+    <string name="btn_back">되돌아가기</string>
+    <string name="detail_format">%1$d 번째\n%2$s (%3$d 세)\n%4$s</string>
+    <string name="dialog_title_custom_detail">선택한 회원</string>
+</resources>
