@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/option_submenu_bg"
+        android:title="@string/bgColor">
+        <menu>
+            <group
+                android:id="@+id/option_group_bg"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/option_bg_white"
+                    android:title="@string/bg_white" />
+                <item
+                    android:id="@+id/option_bg_red"
+                    android:title="@string/bg_red" />
+                <item
+                    android:id="@+id/option_bg_blue"
+                    android:title="@string/bg_blue" />
+                <item
+                    android:id="@+id/option_bg_green"
+                    android:title="@string/bg_green" />
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/option_submenu_text"
+        android:title="@string/textColor">
+        <menu>
+            <group
+                android:id="@+id/option_group_text"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/option_text_white"
+                    android:title="@string/text_white" />
+                <item
+                    android:id="@+id/option_text_black"
+                    android:title="@string/text_black" />
+                <item
+                    android:id="@+id/option_text_yellow"
+                    android:title="@string/text_yellow" />
+            </group>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/option_music"
+        android:checkable="true"
+        android:title="@string/music" />
+</menu>

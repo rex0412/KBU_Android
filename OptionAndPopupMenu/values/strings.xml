@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Report02</string>
+    <string name="popup">POPUP 메뉴</string>
+    <string name="main_text">버튼 클릭시 PopUp 메뉴가 나타납니다</string>
+    <string name="bgColor">배경색 변경</string>
+    <string name="textColor">글자색 변경</string>
+    <string name="music">배경음악 ON/OFF</string>
+    <string name="bg_white">하얀색</string>
+    <string name="bg_red">빨간색</string>
+    <string name="bg_blue">파란색</string>
+    <string name="bg_green">초록색</string>
+    <string name="text_white">글자색 - 흰색</string>
+    <string name="text_black">글자색 - 검정</string>
+    <string name="text_yellow">글자색 - 노랑</string>
+</resources>
