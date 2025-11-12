@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Report01</string>
+    <string name="option1">XML Resource</string>
+    <string name="option2">JAVA Code</string>
+    <string name="textBarXML">Context Menu Sample(XML)</string>
+    <string name="textBarJAVA">Context Menu Sample(JAVA)</string>
+    <string name="longClick">롱 클릭하면 메뉴가 나타납니다</string>
+    <string name="black">검정</string>
+    <string name="red">빨강</string>
+    <string name="green">녹색</string>
+    <string name="blue">파랑</string>
+</resources>
