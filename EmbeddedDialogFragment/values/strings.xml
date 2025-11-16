@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DialogFragment03</string>
+    <string name="box">대화상자 프래그먼트를 액티비티에 내장하였습니다.</string>
+    <string name="name">이름</string>
+    <string name="male">남자</string>
+    <string name="female">여자</string>
+    <string name="check">확인</string>
+</resources>
