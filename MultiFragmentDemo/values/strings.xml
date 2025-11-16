@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Report</string>
+    <string name="LISTFRAGMENT">LISTFRAGMENT</string>
+    <string name="DIALOGFRAGMENT">DIALOGFRAGMENT</string>
+    <string name="FRAGMENT">FRAGMENT</string>
+    <string name="ThreeFragment">Three Fragment!!</string>
+</resources>
