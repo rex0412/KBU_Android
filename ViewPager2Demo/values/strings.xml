@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="widthSlide">가로로 슬라이드</string>
+    <string name="newSlide">새로운 슬라이드</string>
+    <string name="verticalSlide">세로로 슬라이드</string>
+    <string name="viewpager2">ViewPager2</string>
+    <string name="report02">Report02</string>
+</resources>
