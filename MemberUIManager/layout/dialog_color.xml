@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginEnd="10dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_mic1" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="색상을 선택해 주세요"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Red : 0"
+        android:textColor="#FF0000"
+        android:textStyle="bold" />
+
+    <SeekBar
+        android:id="@+id/sb_red"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:max="255" />
+
+    <TextView
+        android:id="@+id/tv_g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Green : 0"
+        android:textColor="#00FF00"
+        android:textStyle="bold" />
+
+    <SeekBar
+        android:id="@+id/sb_green"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:max="255" />
+
+    <TextView
+        android:id="@+id/tv_b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Blue : 0"
+        android:textColor="#0000FF"
+        android:textStyle="bold" />
+
+    <SeekBar
+        android:id="@+id/sb_blue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:max="255" />
+
+    <Button
+        android:id="@+id/btn_preview"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:backgroundTint="#AAAAAA"
+        android:text="변경 색상"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</LinearLayout>
